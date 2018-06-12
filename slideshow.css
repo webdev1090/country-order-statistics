@@ -7,3 +7,6 @@
 .flexslider .slides img { margin: 0 auto; }
 
 .featured-collections .image{max-width:100% !important; height:auto;}
+.test {
+	display: none;
+}
